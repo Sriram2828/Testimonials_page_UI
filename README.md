@@ -1,2 +1,2 @@
 ## Testimonials page UI: [Output]
-![Screenshot 2024-08-11 184121](https://github.com/user-attachments/assets/1d423fdc-9943-4f9a-86dc-92c9345dc02b)
+![Screenshot 2024-08-11 184703](https://github.com/user-attachments/assets/9b71924c-b0f2-404e-819d-2e8f7571ba3d)
